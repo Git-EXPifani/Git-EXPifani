@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🔭 I’m currently working on my FYP at my university.
+# 🔭 I’m currently working on my FYP at my university.
 ## 🌱 I’m currently learning Flutter.
 ## 🤔 I’m looking for help with backend experience.
 ## 👯 I’m looking to collaborate on any passion projects that anyone may have.
